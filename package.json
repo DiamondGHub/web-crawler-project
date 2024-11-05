@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler-project-1",
+  "version": "1.0.0",
+  "description": "project for learning http",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiamondGHub/web-crawler-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiamondGHub/web-crawler-project/issues"
+  },
+  "homepage": "https://github.com/DiamondGHub/web-crawler-project#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
