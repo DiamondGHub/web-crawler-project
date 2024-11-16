@@ -2,7 +2,7 @@
   "name": "web-crawler-project-1",
   "version": "1.0.0",
   "description": "project for learning http",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "node main.js",
     "test": "jest"
